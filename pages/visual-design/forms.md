@@ -14,7 +14,7 @@ personas:
 - **Present fields in a single-column layout.** This keeps visual momentum moving down the page so users don’t have to reorient themselves with multiple columns. (Exceptions to this rule are short, logical fields that may be presented on the same row like _City_, _State_, and _Zip code_.)
 - **Ensure form fields are visibly labeled.**
 - **Make sure form fields have clearly defined boundaries** or outlines so that people with cognitive disabilities know the size and location of the click target.
-- **Do not use placeholder text in form fields.** Placeholder text causes usability issues because it disappears when content is entered into the form field. Hints and instructions should be persistent and placed outside of the field.
+- **Do not use disappearing placeholder text in form fields.** Placeholder text causes usability issues if it disappears when content is entered into the form field.  Field labels should persist even when content is entered into the field. Hints and instructions should also be persistent and placed outside of the field.
 - **Provide highly visible and specific error states.** Use multiple cues like color, icons, bold font weight, heavy border or outline, and helpful text to make sure users don’t overlook this critical information.
 
 #### Resources
